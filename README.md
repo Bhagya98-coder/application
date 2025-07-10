@@ -1,4 +1,4 @@
 # update application developer B
 
-update application developer A story
+# update application adding developer A story
 
